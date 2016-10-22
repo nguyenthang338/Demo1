@@ -1,0 +1,10 @@
+F:\AppMoney\WindowsApplication2\bin\Debug\TaskClean.exe.config
+F:\AppMoney\WindowsApplication2\bin\Debug\TaskClean.exe
+F:\AppMoney\WindowsApplication2\bin\Debug\TaskClean.pdb
+F:\AppMoney\WindowsApplication2\bin\Debug\TaskClean.xml
+F:\AppMoney\WindowsApplication2\obj\Debug\TaskClean.Form1.resources
+F:\AppMoney\WindowsApplication2\obj\Debug\TaskClean.Resources.resources
+F:\AppMoney\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+F:\AppMoney\WindowsApplication2\obj\Debug\TaskClean.exe
+F:\AppMoney\WindowsApplication2\obj\Debug\TaskClean.xml
+F:\AppMoney\WindowsApplication2\obj\Debug\TaskClean.pdb
